@@ -1,6 +1,4 @@
-# cdb_mobile
-
-CDB Mobile Banking Application
+Digital Mobile Banking Application
 
 ## Getting Started
 
