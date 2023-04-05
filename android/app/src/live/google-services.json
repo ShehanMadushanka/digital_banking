@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "697233264770",
+    "project_id": "cdb-digital-banking",
+    "storage_bucket": "cdb-digital-banking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697233264770:android:643acb9219d68bb315a49b",
+        "android_client_info": {
+          "package_name": "lk.cdb.digitalbanking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697233264770-qb452nttv1bb9l3lpqubj6l03f4tcqrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCveAG_fBasJi8Iad2B0hPNP9TE8WwB-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697233264770-qb452nttv1bb9l3lpqubj6l03f4tcqrj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "697233264770-5rduadsa5iq8o8lavhi5j8hujl1bbld2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "lk.cdb.digitalbanking"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

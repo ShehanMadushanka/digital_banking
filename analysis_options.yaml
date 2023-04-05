@@ -1,0 +1,10 @@
+include: package:lint/analysis_options.yaml
+
+analyzer:
+  strong-mode:
+    implicit-casts: true
+
+linter:
+  rules:
+    avoid_classes_with_only_static_members: false
+    prefer_relative_imports: true
